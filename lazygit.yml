@@ -1,0 +1,23 @@
+gui:
+  theme:
+    activeBorderColor:
+      - "#84FFFF"
+      - bold
+
+    inactiveBorderColor:
+      - "#464B5D"
+
+    selectedLineBgColor:
+      - "#1F2233"
+
+    cherryPickedCommitBgColor:
+      - "#232637"
+
+    optionsTextColor:
+      - "#82AAFF"
+
+    defaultFgColor:
+      - "#A6ACCD"
+
+    searchingActiveBorderColor:
+      - "#FFCB6B"
